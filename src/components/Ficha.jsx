@@ -6,6 +6,8 @@ import {Typography} from "@mui/material";
 import {Button} from "@mui/material";
 import {Stack} from "@mui/material";
 
+import {CustomButton} from "milibreria"
+
 function Ficha() {
 
     const [count, setCount] = useState(0)
